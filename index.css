@@ -1,0 +1,51 @@
+body {
+    
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color:#f8f7ff;
+    text-shadow: 1px 1px 1px black;;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #f8f7ff;
+}
+
+#container{
+    width:350px;
+    background-image: url("workout-background.jpg");
+    background-size: cover;
+    margin:20px auto;
+    border-radius:10px;
+    padding:10px;
+    
+    
+}
+
+#increment-btn {
+    background: #9381ff;
+    
+}
+
+#save-btn {
+    background: #b8b8ff;
+    
+}
